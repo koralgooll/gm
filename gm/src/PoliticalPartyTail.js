@@ -4,7 +4,7 @@ class PoliticalPartyTail extends Component {
     render() {
         return (
           <div className="PoliticalPartyTail">
-            <h1>PoliticalPartyTail element</h1>
+            <h1>Partiomat</h1>
           </div>
         );
       }
